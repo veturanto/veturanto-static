@@ -1,0 +1,1 @@
+# veturanto-static
